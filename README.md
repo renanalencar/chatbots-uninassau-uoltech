@@ -17,7 +17,7 @@ Repositório dedicado as aulas da Pós-Graduação Uninassau. Abaixo você encon
 
 ### Projetos executados:
 1. [ConsoleBot](/console-bot)
-2. EchoBot
+2. [EchoBot](/echo-bot)
 3. FashionBot
 
 ## Referências utilizadas

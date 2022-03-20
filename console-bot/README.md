@@ -27,6 +27,7 @@ Abaixo segue a configuração de pastas e arquivos ao fim das construção do pr
     |-- consoleAdapter.js
     |-- index.js
     |-- package-lock.json
+    |-- package.json
 ```
 
 ## Execução deste projeto
