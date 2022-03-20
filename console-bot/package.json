@@ -1,0 +1,19 @@
+{
+  "name": "console-bot",
+  "version": "0.0.1",
+  "description": "Construindo um bot para ser executado via console (terminal).",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "chatbot",
+    "console"
+  ],
+  "author": "Renan Alencar",
+  "license": "ISC",
+  "dependencies": {
+    "botbuilder-core": "^4.15.0",
+    "readline": "^1.3.0"
+  }
+}
