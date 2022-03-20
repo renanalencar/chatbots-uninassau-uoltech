@@ -21,12 +21,13 @@ npm install --save readline
 
 ## Estrutura do projeto
 Abaixo segue a configuração de pastas e arquivos ao fim das construção do projeto.
-.
-+--- _console-bot
-|   +--- bot.js
-|   +--- consoleAdapter.js
-|   +--- index.js
-|   +--- package-lock.json
+```
+|-- console-bot
+    |-- bot.js
+    |-- consoleAdapter.js
+    |-- index.js
+    |-- package-lock.json
+```
 
 ## Execução deste projeto
 Primeiro você deve instalar os pacotes necessários para a execução. No terminal acesse o diretório do projeto e digite o comando:
